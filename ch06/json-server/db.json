@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 6,
+      "title": "The Great Jeremy",
+      "author": "Jeremy"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
